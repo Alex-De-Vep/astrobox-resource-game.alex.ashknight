@@ -1,0 +1,29 @@
+{
+  "item": {
+    "id": "game.alex.ashknight",
+    "restype": "quick_app",
+    "name": "Рыцарь тракта",
+    "description": "Прыгай по уступам, отбивай атаки щитом и собирай кристаллы для улучшений. Путь проходит через пять локаций.\n\nJump across ledges, block attacks with your shield, and collect crystals for upgrades across five areas.",
+    "preview": [
+      "preview-1.png",
+      "preview-2.png"
+    ],
+    "icon": "icon.png",
+    "cover": "cover.png",
+    "author": [
+      {
+        "name": "alexdevep",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [],
+  "downloads": {
+    "xmb10": {
+      "version": "0.3.0",
+      "versionCode": 3,
+      "file_name": "Ash-Knight-0.3.0.rpk"
+    }
+  },
+  "ext": {}
+}
